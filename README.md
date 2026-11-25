@@ -1,8 +1,16 @@
 # In-Vehicle Security Survey: Paper List
 
-Papers covered in the survey:
+Papers covered in the survey below. If you use this list, please cite:
 
-M. Jones, F. Mohsen, U. Rauf, C. Papadopoulos, and S. Shannigrahi. From Entry Point to Impact: A Survey of In-Vehicle Cybersecurity Threats, Mitigations, and Open Research Directions. Vehicular Communications, 2026.
+```bibtex
+@article{jones2026entry,
+  title     = {From Entry Point to Impact: A Survey of In-Vehicle Cybersecurity Threats, Mitigations, and Open Research Directions},
+  author    = {Jones, Micah and Mohsen, Fadi and Rauf, Usman and Papadopoulos, Christos and Shannigrahi, Susmit},
+  journal   = {Vehicular Communications},
+  year      = {2026},
+  publisher = {Elsevier}
+}
+```
 
 The survey groups in-vehicle attacks by entry point, attack method, impact, and defense, across CAN, LIN, FlexRay, Automotive Ethernet, sensors, wireless links, telematics, V2X, and OTA updates. This repository lists the 184 papers (2005 to 2025) and where each one appears in that grouping.
 
@@ -54,18 +62,6 @@ Papers cited only in the introduction, related work, or research gaps sections a
 | DoS & Availability | 2 |
 
 ![Papers per year](figures/methods-a.png)
-
-## Citation
-
-```bibtex
-@article{jones2026entry,
-  title     = {From Entry Point to Impact: A Survey of In-Vehicle Cybersecurity Threats, Mitigations, and Open Research Directions},
-  author    = {Jones, Micah and Mohsen, Fadi and Rauf, Usman and Papadopoulos, Christos and Shannigrahi, Susmit},
-  journal   = {Vehicular Communications},
-  year      = {2026},
-  publisher = {Elsevier}
-}
-```
 
 ## Adding papers
 
