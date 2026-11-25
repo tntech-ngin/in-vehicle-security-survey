@@ -1,0 +1,493 @@
+key,stage,category,topic
+rathore2022vehicle,Context,Introduction,
+canino2025cybersecurity,Context,Introduction,
+george2025cyber,Context,Introduction,
+santa2025automotive,Context,Introduction,
+kousar2025deep,Context,Introduction,
+christy2025machine,Context,Introduction,
+jayaratne2025quantitative,Context,Introduction,
+jayaratne2025quantitative,Context,Research gaps and discussion,
+checkoway2011comprehensive,Entry point,Entry Points at the Physical Layer,"Wired Service and Peripheral Ports (OBD-II, USB, Removable Media)"
+checkoway2011comprehensive,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+checkoway2011comprehensive,Entry point,Entry Points at the Application Layer,"Short-Range Wireless Services (Bluetooth, Wi-Fi, Keyless RF Links)"
+checkoway2011comprehensive,Attack methodology,Manipulation,Malware injection
+checkoway2011comprehensive,Attack methodology,Manipulation,Trojan horse applications
+checkoway2011comprehensive,Context,Related survey or background,
+checkoway2011comprehensive,Context,Introduction,
+checkoway2011comprehensive,Entry point,Entry Points at the Physical Layer,OBD-II Port
+checkoway2011comprehensive,Entry point,Entry Points at the Physical Layer,USB Ports
+checkoway2011comprehensive,Entry point,Entry Points at the Physical Layer,Radio/CD Player
+checkoway2011comprehensive,Entry point,Entry Points at the Application Layer,Keyless Entry (RFID)
+checkoway2011comprehensive,Entry point,Entry Points at the Application Layer,Cellular Networks
+checkoway2011comprehensive,Entry point,Entry Points at the Application Layer,Wi-Fi
+6615528,Entry point,Entry Points at the Physical Layer,"Wired Service and Peripheral Ports (OBD-II, USB, Removable Media)"
+6615528,Context,Related survey or background,
+6615528,Context,Introduction,
+6615528,Entry point,Entry Points at the Physical Layer,Radio/CD Player
+10.1145/3431233,Entry point,Entry Points at the Physical Layer,"Wired Service and Peripheral Ports (OBD-II, USB, Removable Media)"
+10.1145/3431233,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+10.1145/3431233,Entry point,Entry Points at the Data-Link Layer,"In-Vehicle Buses and Diagnostic Transport (CAN/CAN FD, LIN, FlexRay, Automotive Ethernet)"
+10.1145/3431233,Entry point,Entry Points at the Application Layer,"Short-Range Wireless Services (Bluetooth, Wi-Fi, Keyless RF Links)"
+10.1145/3431233,Entry point,Entry Points at the Application Layer,Long-Range Telematics and Internet-Facing Services (Cellular)
+10.1145/3431233,Entry point,Entry Points at the Application Layer,"Infotainment Apps, Projection, and Voice Services"
+10.1145/3431233,Attack methodology,Manipulation,ECU/node impersonation attacks
+10.1145/3431233,Impact,Information Leakage and Follow-On Attacks,"Door locks, alarms, and theft enablement"
+10.1145/3431233,Context,Related survey or background,
+10.1145/3431233,Context,Introduction,
+10.1145/3431233,Context,Research gaps and discussion,
+10.1145/3431233,Entry point,Entry Points at the Physical Layer,USB Ports
+10.1145/3431233,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+10.1145/3431233,Entry point,Entry Points at the Data-Link Layer,"CAN/CAN FD, LIN, FlexRay, Automotive Ethernet"
+10.1145/3431233,Entry point,Entry Points at the Application Layer,Wi-Fi
+10.1145/3431233,Entry point,Entry Points at the Application Layer,Automotive Applications
+10.1145/3431233,Impact,Information Leakage and Follow-On Attacks,Door Lock Tampering; Car Alarm Disablement; Replay-Based Theft
+info10040148,Entry point,Entry Points at the Application Layer,"Short-Range Wireless Services (Bluetooth, Wi-Fi, Keyless RF Links)"
+info10040148,Context,Related survey or background,
+info10040148,Context,Introduction,
+info10040148,Context,Research gaps and discussion,
+info10040148,Entry point,Entry Points at the Application Layer,Wi-Fi
+info10040148,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+info10040148,Impact,Mechanical and Electrical Anomalies,Window Controls; Horn Control; HVAC Control; Cabin Lights Control
+info10040148,Impact,Cross-Cutting Impact Properties,Cascading Multi-Domain Compromise
+DBLP:journals/corr/abs-1802-01725,Impact,Mechanical and Electrical Anomalies,Auxiliary actuator disruption
+DBLP:journals/corr/abs-1802-01725,Impact,False or Misleading Information,Infotainment and display deception
+DBLP:journals/corr/abs-1802-01725,Context,Related survey or background,
+DBLP:journals/corr/abs-1802-01725,Context,Introduction,
+DBLP:journals/corr/abs-1802-01725,Entry point,Entry Points at the Physical Layer,Radio/CD Player
+DBLP:journals/corr/abs-1802-01725,Entry point,Entry Points at the Application Layer,Keyless Entry (RFID)
+DBLP:journals/corr/abs-1802-01725,Impact,Mechanical and Electrical Anomalies,Window Controls; Horn Control; HVAC Control; Cabin Lights Control
+DBLP:journals/corr/abs-1802-01725,Impact,False or Misleading Information,Infotainment Center Display Manipulation
+DBLP:journals/corr/abs-1802-01725,Impact,Information Leakage and Follow-On Attacks,Door Lock Tampering; Car Alarm Disablement; Replay-Based Theft
+8688625,Entry point,Entry Points at the Application Layer,OTA and Software Supply Chain
+8688625,Context,Related survey or background,
+8688625,Context,Introduction,
+8688625,Context,Research gaps and discussion,
+8688625,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+8688625,Entry point,Entry Points at the Application Layer,OTA (Over-the-Air) Updates
+8688625,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+7393668,Entry point,Entry Points at the Data-Link Layer,"In-Vehicle Buses and Diagnostic Transport (CAN/CAN FD, LIN, FlexRay, Automotive Ethernet)"
+7393668,Impact,Information Leakage and Follow-On Attacks,Eavesdropping and privacy leakage
+7393668,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Message- and Frame-Level Protections
+7393668,Context,Related survey or background,
+7393668,Context,Introduction,
+7393668,Context,Research gaps and discussion,
+7393668,Entry point,Entry Points at the Data-Link Layer,"CAN/CAN FD, LIN, FlexRay, Automotive Ethernet"
+7393668,Entry point,Entry Points at the Application Layer,Bluetooth
+7393668,Entry point,Entry Points at the Application Layer,Cellular Networks
+7393668,Impact,Information Leakage and Follow-On Attacks,Compromised In-Vehicle Conversation
+LE201817,Entry point,Entry Points at the Physical Layer,"Wired Service and Peripheral Ports (OBD-II, USB, Removable Media)"
+LE201817,Entry point,Entry Points at the Application Layer,Long-Range Telematics and Internet-Facing Services (Cellular)
+LE201817,Entry point,Entry Points at the Application Layer,OTA and Software Supply Chain
+LE201817,Attack methodology,Manipulation,Message/frame injection attacks
+LE201817,Attack methodology,Manipulation,Injection through trusted projection paths
+LE201817,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Wireless Interface Hardening
+LE201817,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Message- and Frame-Level Protections
+LE201817,Context,Related survey or background,
+LE201817,Context,Introduction,
+LE201817,Entry point,Entry Points at the Physical Layer,Radio/CD Player
+LE201817,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+LE201817,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Harden MirrorLink/CAN exposure; authenticate IP traffic
+LE201817,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Redundancy and secure routing for dropped messages
+KIM2021102150,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+KIM2021102150,Attack methodology,Manipulation,Injection through trusted projection paths
+KIM2021102150,Attack methodology,Monitoring and Reconnaissance,Blue Link personally identifiable information (PII) exfiltration
+KIM2021102150,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Wireless Interface Hardening
+KIM2021102150,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Privacy and Information Leakage Mitigation
+KIM2021102150,Context,Related survey or background,
+KIM2021102150,Context,Introduction,
+KIM2021102150,Context,Research gaps and discussion,
+KIM2021102150,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+KIM2021102150,Entry point,Entry Points at the Application Layer,Bluetooth
+KIM2021102150,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+KIM2021102150,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Harden MirrorLink/CAN exposure; authenticate IP traffic
+KIM2021102150,Detection and mitigation,Detection and Mitigations at Attack Entry Points,"Encrypt TPMS, GPS, CAN, and infotainment data"
+9463461,Entry point,Entry Points at the Application Layer,V2X Communications
+9463461,Attack methodology,Manipulation,Sybil and illusion attacks
+9463461,Attack methodology,Disruption,Grey Hole and Black Hole attacks
+9463461,Context,Related survey or background,
+9463461,Context,Introduction,
+9463461,Entry point,Entry Points at the Application Layer,V2X (DSRC/C-V2X)
+5948952,Context,Related survey or background,
+5948952,Context,Introduction,
+5948952,Context,Research gaps and discussion,
+castiglione2025securing,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Architectural Isolation and Secure Gateways
+castiglione2025securing,Context,Introduction,
+castiglione2025securing,Context,Research gaps and discussion,
+smith2025post,Context,Introduction,
+smith2025post,Context,Research gaps and discussion,
+miller2015remote,Entry point,Entry Points at the Application Layer,Long-Range Telematics and Internet-Facing Services (Cellular)
+miller2015remote,Entry point,Entry Points at the Application Layer,
+miller2015remote,Impact,Mechanical and Electrical Anomalies,Steering lockout
+miller2015remote,Impact,Mechanical and Electrical Anomalies,Brake lockout
+miller2015remote,Context,Introduction,
+miller2015remote,Context,Research gaps and discussion,
+miller2015remote,Entry point,Entry Points at the Application Layer,Cellular Networks
+miller2015remote,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+miller2015remote,Impact,Cross-Cutting Impact Properties,Cascading Multi-Domain Compromise
+niefreefall2017,Entry point,Entry Points at the Application Layer,
+niefreefall2017,Context,Introduction,
+niefreefall2017,Context,Research gaps and discussion,
+niefreefall2017,Entry point,Entry Points at the Application Layer,Wi-Fi
+ying2023gps,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+ying2023gps,Entry point,Entry Points at the Application Layer,
+ying2023gps,Attack methodology,Manipulation,Sensor spoofing attacks
+ying2023gps,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Detection at Attack Entry Points
+ying2023gps,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Sensor and External Signal Validation
+ying2023gps,Context,Introduction,
+ying2023gps,Context,Research gaps and discussion,
+ying2023gps,Entry point,Entry Points at the Physical Layer,GPS
+ying2023gps,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,GPS anti-spoofing (geofencing); jamming detection
+5940525,Entry point,Entry Points at the Physical Layer,"Wired Service and Peripheral Ports (OBD-II, USB, Removable Media)"
+5940525,Attack methodology,Manipulation,Message/frame injection attacks
+5940525,Impact,Mechanical and Electrical Anomalies,Auxiliary actuator disruption
+5940525,Impact,Information Leakage and Follow-On Attacks,"Door locks, alarms, and theft enablement"
+5940525,Context,Related survey or background,
+5940525,Context,Research gaps and discussion,
+5940525,Entry point,Entry Points at the Physical Layer,OBD-II Port
+5940525,Impact,Mechanical and Electrical Anomalies,Lane Assist Failure; Airbag Disablement
+5940525,Impact,Information Leakage and Follow-On Attacks,Door Lock Tampering; Car Alarm Disablement; Replay-Based Theft
+kifor2024automotive,Context,Related survey or background,
+9316663,Entry point,Entry Points at the Physical Layer,"Wired Service and Peripheral Ports (OBD-II, USB, Removable Media)"
+9316663,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+9316663,Entry point,Entry Points at the Application Layer,"Short-Range Wireless Services (Bluetooth, Wi-Fi, Keyless RF Links)"
+9316663,Entry point,Entry Points at the Application Layer,Long-Range Telematics and Internet-Facing Services (Cellular)
+9316663,Attack methodology,Manipulation,Sybil and illusion attacks
+9316663,Attack methodology,Disruption,"""Bush Telegraph"" and brute-force request flooding"
+9316663,Attack methodology,Disruption,Grey Hole and Black Hole attacks
+9316663,Impact,Information Leakage and Follow-On Attacks,"Door locks, alarms, and theft enablement"
+9316663,Context,Related survey or background,
+9316663,Entry point,Entry Points at the Physical Layer,USB Ports
+9316663,Entry point,Entry Points at the Application Layer,Keyless Entry (RFID)
+9316663,Entry point,Entry Points at the Application Layer,Wi-Fi
+9316663,Impact,Information Leakage and Follow-On Attacks,Door Lock Tampering; Car Alarm Disablement; Replay-Based Theft
+limbasiya2022systematic,Context,Related survey or background,
+9619465,Entry point,Entry Points at the Application Layer,V2X Communications
+9619465,Attack methodology,Manipulation,IP spoofing attacks
+9619465,Attack methodology,Manipulation,Sybil and illusion attacks
+9619465,Attack methodology,Disruption,Grey Hole and Black Hole attacks
+9619465,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Availability and Disruption Mitigation
+9619465,Context,Related survey or background,
+9619465,Entry point,Entry Points at the Application Layer,V2X (DSRC/C-V2X)
+9619465,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Sensor fusion and cross-validation; IR filtering; authenticated ACC/CACC data
+karopoulos2022demystifying,Context,Related survey or background,
+thing2016autonomous,Context,Related survey or background,
+singh2017security,Context,Related survey or background,
+monteuuis2018sara,Context,Related survey or background,
+sommer2024combining,Context,Related survey or background,
+martinezcruz2021security,Context,Related survey or background,
+martinezcruz2021security,Context,Research gaps and discussion,
+AESystematicReview2024,Context,Related survey or background,
+AESystematicReview2024,Context,Research gaps and discussion,
+tuohy2016hybrid,Context,Related survey or background,
+tuohy2016hybrid,Context,Research gaps and discussion,
+toyama2018pasta,Context,Related survey or background,
+toyama2018pasta,Context,Research gaps and discussion,
+shi2022cantestbed,Attack methodology,Manipulation,Fuzzing attacks
+shi2022cantestbed,Context,Related survey or background,
+shi2022cantestbed,Context,Research gaps and discussion,
+yeo2023vitrobench,Context,Related survey or background,
+yeo2023vitrobench,Context,Research gaps and discussion,
+zachos2024vce,Context,Related survey or background,
+zachos2024vce,Context,Research gaps and discussion,
+wang2021systematicrisk,Context,Related survey or background,
+widel2023mal,Context,Related survey or background,
+katsikeas2022vehiclelang,Context,Related survey or background,
+jayaratne2024simulation,Context,Related survey or background,
+jayaratne2024simulation,Context,Research gaps and discussion,
+abdallah2022not,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+abdallah2022not,Entry point,Entry Points at the Physical Layer,GPS
+abdallah2022not,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,GPS anti-spoofing (geofencing); jamming detection
+8370879,Entry point,Entry Points at the Physical Layer,"Wired Service and Peripheral Ports (OBD-II, USB, Removable Media)"
+8370879,Entry point,Entry Points at the Application Layer,"Short-Range Wireless Services (Bluetooth, Wi-Fi, Keyless RF Links)"
+8370879,Entry point,Entry Points at the Application Layer,Long-Range Telematics and Internet-Facing Services (Cellular)
+8370879,Entry point,Entry Points at the Application Layer,"Infotainment Apps, Projection, and Voice Services"
+8370879,Entry point,Entry Points at the Application Layer,Automotive Applications
+6945510,Entry point,Entry Points at the Physical Layer,"Wired Service and Peripheral Ports (OBD-II, USB, Removable Media)"
+6945510,Entry point,Entry Points at the Application Layer,"Short-Range Wireless Services (Bluetooth, Wi-Fi, Keyless RF Links)"
+6945510,Entry point,Entry Points at the Application Layer,Long-Range Telematics and Internet-Facing Services (Cellular)
+6945510,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Architectural Isolation and Secure Gateways
+hu2018review,Entry point,Entry Points at the Physical Layer,EV Charging as a Physical-Cyber Interface
+hu2018review,Attack methodology,Manipulation,Message/frame injection attacks
+6513548,Entry point,Entry Points at the Physical Layer,EV Charging as a Physical-Cyber Interface
+6513548,Entry point,Entry Points at the Application Layer,"Short-Range Wireless Services (Bluetooth, Wi-Fi, Keyless RF Links)"
+6513548,Entry point,Entry Points at the Application Layer,Long-Range Telematics and Internet-Facing Services (Cellular)
+6513548,Attack methodology,Disruption,RF jamming for keyless entry
+6513548,Entry point,Entry Points at the Physical Layer,OBD-II Port
+6513548,Entry point,Entry Points at the Physical Layer,EV Charging Stations
+6513548,Entry point,Entry Points at the Application Layer,Keyless Entry (RFID)
+6513548,Entry point,Entry Points at the Application Layer,Cellular Networks
+sturgess2023cableauth,Entry point,Entry Points at the Physical Layer,EV Charging as a Physical-Cyber Interface
+sturgess2023cableauth,Entry point,Entry Points at the Physical Layer,EV Charging Stations
+garofalaki2022ocpp,Entry point,Entry Points at the Physical Layer,EV Charging as a Physical-Cyber Interface
+garofalaki2022ocpp,Context,Research gaps and discussion,
+poudel2023injection,Entry point,Entry Points at the Physical Layer,EV Charging as a Physical-Cyber Interface
+mokarim2023evcs,Entry point,Entry Points at the Physical Layer,EV Charging as a Physical-Cyber Interface
+mokarim2023evcs,Context,Research gaps and discussion,
+Cao2021InvisibleFB,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+Cao2021InvisibleFB,Attack methodology,Manipulation,Sensor spoofing attacks
+Cao2021InvisibleFB,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+Cao2021InvisibleFB,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Sensor fusion and cross-validation; IR filtering; authenticated ACC/CACC data
+279980,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+279980,Attack methodology,Manipulation,Sensor spoofing attacks
+279980,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Control-Logic and Semantic Validation
+10.1145/3460120.3485377,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+10.1145/3460120.3485377,Attack methodology,Manipulation,Sensor spoofing attacks
+hau2021object,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+hau2021object,Attack methodology,Manipulation,Sensor spoofing attacks
+hau2021object,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Control-Logic and Semantic Validation
+Zhu2022DemoAL,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+Zhu2022DemoAL,Attack methodology,Manipulation,Sensor spoofing attacks
+cao2021automated,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+cao2021automated,Attack methodology,Manipulation,Sensor spoofing attacks
+zhang2023cooperative,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+zhang2023cooperative,Attack methodology,Manipulation,Sensor spoofing attacks
+287252,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+287252,Attack methodology,Manipulation,Sensor spoofing attacks
+nassi2021spoofing,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+nassi2021spoofing,Attack methodology,Manipulation,Camera perception spoofing
+nassi2021spoofing,Impact,Mechanical and Electrical Anomalies,Lane assist failure
+nassi2021spoofing,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Control-Logic and Semantic Validation
+nassi2021spoofing,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+sato2021wip,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+sato2021wip,Attack methodology,Manipulation,Dirty road patch attacks
+sato2021wip,Attack methodology,Manipulation,Camera perception spoofing
+sato2021wip,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Sensor fusion and cross-validation; IR filtering; authenticated ACC/CACC data
+10.1145/3460120.3484766,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+10.1145/3460120.3484766,Attack methodology,Manipulation,Sensor spoofing attacks
+10.1145/3460120.3484766,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Signal- and Measurement-Level Defenses
+10.1145/3460120.3484766,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+10.1145/3460120.3484766,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Sensor fusion and cross-validation; IR filtering; authenticated ACC/CACC data
+sato2023wip,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+sato2023wip,Attack methodology,Manipulation,Camera perception spoofing
+tang2021fooling,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+tang2021fooling,Attack methodology,Manipulation,Sensor spoofing attacks
+tang2021fooling,Attack methodology,Manipulation,Camera perception spoofing
+tang2021fooling,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+tang2021fooling,Entry point,Entry Points at the Physical Layer,GPS
+285475,Attack methodology,Manipulation,Sensor spoofing attacks
+285475,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+Ding2022DemoHC,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+Ding2022DemoHC,Entry point,Entry Points at the Application Layer,"Infotainment Apps, Projection, and Voice Services"
+Ding2022DemoHC,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+Ding2022DemoHC,Entry point,Entry Points at the Application Layer,Automotive Applications
+kang2021car,Entry point,Entry Points at the Physical Layer,OBD-II Port
+rajapaksha2023improving,Attack methodology,Monitoring and Reconnaissance,Frame sniffing attacks
+rajapaksha2023improving,Impact,False or Misleading Information,Speedometer and dashboard manipulation
+rajapaksha2023improving,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Detection of Attack Methodologies
+rajapaksha2023improving,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Signal- and Measurement-Level Defenses
+rajapaksha2023improving,Entry point,Entry Points at the Physical Layer,OBD-II Port
+rajapaksha2023improving,Impact,Mechanical and Electrical Anomalies,Head/Tail Lights Disablement; Windshield Wipers Control
+rajapaksha2023improving,Impact,False or Misleading Information,Instrument Panel/Dashboard Manipulation; Speedometer Manipulation
+SONG2020100198,Entry point,Entry Points at the Physical Layer,OBD-II Port
+wang2014vecure,Entry point,Entry Points at the Physical Layer,OBD-II Port
+wang2014vecure,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+8306904,Impact,False or Misleading Information,Speedometer and dashboard manipulation
+wolf2007state,Impact,Mechanical and Electrical Anomalies,Engine lockout
+wolf2007state,Impact,Mechanical and Electrical Anomalies,Auxiliary actuator disruption
+wolf2007state,Impact,False or Misleading Information,"Odometer, tachograph, and governor tampering"
+wolf2007state,Impact,Information Leakage and Follow-On Attacks,"Door locks, alarms, and theft enablement"
+wolf2007state,Entry point,Entry Points at the Physical Layer,USB Ports
+wolf2007state,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+wolf2007state,Impact,Mechanical and Electrical Anomalies,Window Controls; Horn Control; HVAC Control; Cabin Lights Control
+wolf2007state,Impact,False or Misleading Information,Mileage Gauge Tampering; Removing Speed/RPM Governors
+wolf2007state,Impact,Information Leakage and Follow-On Attacks,Door Lock Tampering; Car Alarm Disablement; Replay-Based Theft
+wolf2007state,Impact,Cross-Cutting Impact Properties,Cascading Multi-Domain Compromise
+5504804,Entry point,Entry Points at the Data-Link Layer,
+5504804,Attack methodology,Disruption,DoS and Bus-Off attacks
+5504804,Impact,Mechanical and Electrical Anomalies,Auxiliary actuator disruption
+5504804,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Firmware- and Execution-Level Security
+5504804,Context,Research gaps and discussion,
+5504804,Entry point,Entry Points at the Physical Layer,Radio/CD Player
+5504804,Impact,Mechanical and Electrical Anomalies,Window Controls; Horn Control; HVAC Control; Cabin Lights Control
+5504804,Impact,False or Misleading Information,Instrument Panel/Dashboard Manipulation; Speedometer Manipulation
+5504804,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Secure firmware; sandbox media systems
+8767141,Entry point,Entry Points at the Physical Layer,EV Charging Stations
+basnet2021exploring,Entry point,Entry Points at the Physical Layer,EV Charging Stations
+el2020cybersecurity,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+el2020cybersecurity,Entry point,Entry Points at the Application Layer,Keyless Entry (RFID)
+yang2021secure,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Detection of Attack Methodologies
+yang2021secure,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Control-Logic and Semantic Validation
+yang2021secure,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Impact-Level Detection
+yang2021secure,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+yang2021secure,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Sensor fusion and cross-validation; IR filtering; authenticated ACC/CACC data
+philipsen2021threats,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+philipsen2021threats,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Sensor fusion and cross-validation; IR filtering; authenticated ACC/CACC data
+9128438,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Wireless Interface Hardening
+hu2022pass,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+yan2016can,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+yan2016can,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+kang2020attack,Impact,Mechanical and Electrical Anomalies,Brake lockout
+kang2020attack,Entry point,Entry Points at the Physical Layer,"LiDAR, Radar, Cameras, Microphones, TPMS, Ultrasonic Sensors"
+kang2020attack,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+yang2022gpskey,Attack methodology,Monitoring and Reconnaissance,GPS stalking and leading
+9833886,Entry point,Entry Points at the Application Layer,"Short-Range Wireless Services (Bluetooth, Wi-Fi, Keyless RF Links)"
+9833886,Entry point,Entry Points at the Application Layer,Bluetooth
+renganathan2022valet,Entry point,Entry Points at the Application Layer,Bluetooth
+9564848,Entry point,Entry Points at the Application Layer,Cellular Networks
+josephlal2019vulnerability,Entry point,Entry Points at the Application Layer,Wi-Fi
+lee2019enhanced,Entry point,Entry Points at the Application Layer,Automotive Applications
+seo2023formally,Entry point,Entry Points at the Application Layer,OTA and Software Supply Chain
+seo2023formally,Entry point,Entry Points at the Application Layer,OTA (Over-the-Air) Updates
+9091063,Attack methodology,Manipulation,Amplitude shift attacks
+9091063,Attack methodology,Manipulation,Replay attacks
+9091063,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Signal- and Measurement-Level Defenses
+9091063,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Message- and Frame-Level Protections
+9091063,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+berdich2023secure,Attack methodology,Manipulation,Amplitude shift attacks
+9706416,Attack methodology,Manipulation,RPM and gear spoofing attacks
+9706416,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+wright2011hacking,Context,Introduction,
+9564677,Attack methodology,Manipulation,ACC and CACC manipulation
+9564677,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Detection of Attack Methodologies
+9564677,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Control-Logic and Semantic Validation
+9564677,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Impact-Level Detection
+9564677,Context,Research gaps and discussion,
+9564677,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Sensor fusion and cross-validation; IR filtering; authenticated ACC/CACC data
+shoukry2013non,Attack methodology,Manipulation,Sensor spoofing attacks
+shoukry2013non,Impact,Mechanical and Electrical Anomalies,Brake lockout
+shoukry2013non,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+verma2024road,Attack methodology,Manipulation,Fuzzing attacks
+7796898,Attack methodology,Manipulation,Message/frame injection attacks
+7796898,Attack methodology,Disruption,DoS and Bus-Off attacks
+7796898,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Detection of Attack Methodologies
+7796898,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Message- and Frame-Level Protections
+7796898,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+272188,Attack methodology,Manipulation,ECU/node impersonation attacks
+272188,Attack methodology,Disruption,DoS and Bus-Off attacks
+197171,Attack methodology,Manipulation,Masquerade attacks
+197171,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Detection of Attack Methodologies
+197171,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Message- and Frame-Level Protections
+197171,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+8624397,Attack methodology,Monitoring and Reconnaissance,ECU compromise reconnaissance
+8624397,Impact,Mechanical and Electrical Anomalies,Brake lockout
+8624397,Impact,Mechanical and Electrical Anomalies,Engine lockout
+8624397,Impact,Mechanical and Electrical Anomalies,Auxiliary actuator disruption
+8624397,Impact,False or Misleading Information,Speedometer and dashboard manipulation
+8624397,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Firmware- and Execution-Level Security
+8624397,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+8624397,Impact,Mechanical and Electrical Anomalies,Lane Assist Failure; Airbag Disablement
+8624397,Impact,Mechanical and Electrical Anomalies,Head/Tail Lights Disablement; Windshield Wipers Control
+8624397,Impact,Mechanical and Electrical Anomalies,Window Controls; Horn Control; HVAC Control; Cabin Lights Control
+8624397,Impact,False or Misleading Information,Instrument Panel/Dashboard Manipulation; Speedometer Manipulation
+8624397,Impact,Cross-Cutting Impact Properties,Cascading Multi-Domain Compromise
+8624397,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Secure firmware; sandbox media systems
+8053478,Attack methodology,Monitoring and Reconnaissance,Frame sniffing attacks
+rouf2010security,Entry point,Entry Points at the Physical Layer,"Perception and Sensing Surfaces (LiDAR, Radar, Cameras, GNSS, Tire Pressure Monitoring System (TPMS), Ultrasonic, Microphones)"
+rouf2010security,Attack methodology,Manipulation,Sensor spoofing attacks
+rouf2010security,Attack methodology,Monitoring and Reconnaissance,TPMS tracking attacks
+rouf2010security,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Sensor and External Signal Validation
+rouf2010security,Detection and mitigation,Detection and Mitigations at Attack Entry Points,"Encrypt TPMS, GPS, CAN, and infotainment data"
+rouf2010security,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Dynamic IDs and encrypted TPMS broadcasts against tracking
+247674,Attack methodology,Monitoring and Reconnaissance,Cache side-channel route extraction
+247674,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Privacy and Information Leakage Mitigation
+chenguess,Attack methodology,Monitoring and Reconnaissance,Cellular MEMS-based vehicle identification
+8642311,Attack methodology,Disruption,DoS and Bus-Off attacks
+parno2005challenges,Attack methodology,Disruption,Fabrication and connection exhaustion
+parno2005challenges,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Message- and Frame-Level Protections
+parno2005challenges,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+chatterjee2023exploiting,Attack methodology,Disruption,Fabrication and connection exhaustion
+chatterjee2023exploiting,Attack methodology,Disruption,"""Bush Telegraph"" and brute-force request flooding"
+chatterjee2023exploiting,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Availability and Disruption Mitigation
+chatterjee2023exploiting,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,"Throttling, queuing, and timeouts against overload/exhaustion"
+mohammadi2022generation,Impact,Mechanical and Electrical Anomalies,Brake lockout
+mohammadi2022generation,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+chernikova2019self,Impact,Mechanical and Electrical Anomalies,Steering lockout
+chernikova2019self,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+10.1007/978-3-540-87698-4_21,Impact,Mechanical and Electrical Anomalies,Auxiliary actuator disruption
+10.1007/978-3-540-87698-4_21,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+10.1007/978-3-540-87698-4_21,Impact,Mechanical and Electrical Anomalies,Lane Assist Failure; Airbag Disablement
+10.1007/978-3-540-87698-4_21,Impact,Mechanical and Electrical Anomalies,Window Controls; Horn Control; HVAC Control; Cabin Lights Control
+10.1007/978-3-540-87698-4_21,Detection and mitigation,Detection and Mitigations at Attack Entry Points,"Encrypt TPMS, GPS, CAN, and infotainment data"
+kang2022detection,Impact,Mechanical and Electrical Anomalies,Brake lockout
+kang2022detection,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+xu2020robust,Impact,Mechanical and Electrical Anomalies,Steering Lockout; Brake Lockout; Engine Lockout
+iqbal2019towards,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Architectural Isolation and Secure Gateways
+iqbal2019towards,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Firmware- and Execution-Level Security
+iqbal2019towards,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Secure firmware; sandbox media systems
+baldini2022detection,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+baldini2022detection,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,GPS anti-spoofing (geofencing); jamming detection
+daily2021securing,Detection and mitigation,Detection and Mitigations at Attack Entry Points,"Encrypt TPMS, GPS, CAN, and infotainment data"
+287308,Detection and mitigation,Detection and Mitigations at Attack Entry Points,"Encrypt TPMS, GPS, CAN, and infotainment data"
+9491889,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+8270348,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+5281251,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+xie2021security,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+10049666,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+6542519,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"MACs, signatures, session keys; mutual ECU authentication; freshness"
+ahmad2020securing,Entry point,Entry Points at the Application Layer,Keyless Entry (RFID)
+shahriar2023cantropy,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+yue2021cancloak,Attack methodology,Manipulation,Message/frame injection attacks
+wang2021can,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+7427089,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+blevins2021time,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+s23073554,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+alkhatib2023wip,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+agbaje2022framework,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+6940213,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+lai2024gradient,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+fu2024iov,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+wang2024intrusion,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+li2024ecf,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+ibraheem2024anomaly,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+chandra2024enhanced,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+altalbe2023enhanced,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+jichici2023control,Attack methodology,Manipulation,Amplitude shift attacks
+jichici2023control,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Signal- and Measurement-Level Defenses
+jichici2023control,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+singh2023intrusion,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+zhao2023tree,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+qiu2023physical,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+yu2022tce,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+kandasamy2022detection,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+andreica2022android,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+anjum2022vehicle,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+7420322,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+deppenhanced,Detection and mitigation,Detection and Mitigations at Attack Entry Points,Wireless Interface Hardening
+deppenhanced,Entry point,Entry Points at the Application Layer,Keyless Entry (RFID)
+shin2017intelligent,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Detection of Attack Methodologies
+shin2017intelligent,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Control-Logic and Semantic Validation
+shin2017intelligent,Detection and mitigation,Detection and Mitigations for Impact Containment and Recovery,Impact-Level Detection
+shin2017intelligent,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Sensor fusion and cross-validation; IR filtering; authenticated ACC/CACC data
+lokman2019intrusion,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+rana2017attack,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,Signal- and Measurement-Level Defenses
+moriano2022masquerade,Detection and mitigation,Data-Driven and Semantic Attack Detection,
+moriano2022masquerade,Context,Research gaps and discussion,
+moriano2022masquerade,Detection and mitigation,Detection and Mitigations Disrupting Attack Methodologies,"IDS for timing, voltage, injection, spoofed gear/RPM, masquerading"
+gao2025signal,Detection and mitigation,Data-Driven and Semantic Attack Detection,
+gao2025signal,Context,Research gaps and discussion,
+sun2025kgid,Detection and mitigation,Data-Driven and Semantic Attack Detection,
+sun2025kgid,Context,Research gaps and discussion,
+alqahtani2025deep,Detection and mitigation,Data-Driven and Semantic Attack Detection,
+alqahtani2025deep,Context,Research gaps and discussion,
+PMCSurveyDL2023,Context,Research gaps and discussion,
+Bari2023,Context,Research gaps and discussion,
+Alobaidi2024,Context,Research gaps and discussion,
+Ibrahum2024,Context,Research gaps and discussion,
+Baccari2024,Context,Research gaps and discussion,
+Nguyen2024,Context,Research gaps and discussion,
+Mozzaquatro2023,Context,Research gaps and discussion,
+Chillotti2021,Context,Research gaps and discussion,
+Zelle2022,Context,Research gaps and discussion,
+Mahmood2022,Entry point,Entry Points at the Application Layer,OTA and Software Supply Chain
+Mahmood2022,Context,Research gaps and discussion,
+Mahmood2022,Entry point,Entry Points at the Application Layer,OTA (Over-the-Air) Updates
+Iyieke2024,Context,Research gaps and discussion,
+Badjie2024,Context,Research gaps and discussion,
+Samir2024,Context,Research gaps and discussion,
+NatureIDS2025,Context,Research gaps and discussion,
+Yang2025DefenseWeaver,Context,Research gaps and discussion,
+IVNIDSSurvey2025,Context,Research gaps and discussion,
+Althunayyan2024HFL,Context,Research gaps and discussion,
+Haeckel2025,Context,Research gaps and discussion,
+lauser2024security,Context,Research gaps and discussion,
+Zhu2024,Context,Research gaps and discussion,
+Seo2024,Context,Research gaps and discussion,
+Seo2024,Entry point,Entry Points at the Application Layer,OTA (Over-the-Air) Updates
+luo2022cybersecuritytesting,Context,Research gaps and discussion,
+hutchins2011killchain,Context,Related survey or background,
+vanderheijden2019misbehavior,Entry point,Entry Points at the Application Layer,V2X Communications
+vanderheijden2019misbehavior,Entry point,Entry Points at the Application Layer,V2X (DSRC/C-V2X)
+bloom2021weepingcan,Attack methodology,Disruption,DoS and Bus-Off attacks
+bloom2021weepingcan,Attack methodology,Disruption,Message suspension/drop attacks
+palanca2017stealth,Attack methodology,Disruption,DoS and Bus-Off attacks
+palanca2017stealth,Attack methodology,Disruption,Message suspension/drop attacks

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Please cite the survey paper."
+title: "In-Vehicle Security Survey: Paper List"
+authors:
+  - family-names: Jones
+    given-names: Micah
+  - family-names: Mohsen
+    given-names: Fadi
+  - family-names: Rauf
+    given-names: Usman
+  - family-names: Papadopoulos
+    given-names: Christos
+  - family-names: Shannigrahi
+    given-names: Susmit
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "From Entry Point to Impact: A Survey of In-Vehicle Cybersecurity Threats, Mitigations, and Open Research Directions"
+  authors:
+    - family-names: Jones
+      given-names: Micah
+    - family-names: Mohsen
+      given-names: Fadi
+    - family-names: Rauf
+      given-names: Usman
+    - family-names: Papadopoulos
+      given-names: Christos
+    - family-names: Shannigrahi
+      given-names: Susmit
+  journal: "Vehicular Communications"
+  publisher:
+    name: Elsevier
+  year: 2026
